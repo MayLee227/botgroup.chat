@@ -17,8 +17,8 @@ export const groups: Group[] = [
   },
   {
     id: 'group2',
-    name: '🎯AI成语接龙游戏群',
-    description: '可以适当打招呼问候自我介绍 #注意：本群主线是成语接龙游戏，请严格按照文字成语接龙规则，不能过度闲聊，一旦游戏开始不要过度解释，只允许回复1条成语',
+    name: '🎯AI论文指导群',
+    description: '可以适当打招呼问候自我介绍 #注意：本群主线是论文写作的知道，不能过度闲聊，user提问后请问答与论文写作的相关的内容',
     isGroupDiscussionMode: true,
     members: [ 'ai8', 'ai5', 'ai6', 'ai7', 'ai9', 'ai10', 'ai4'],
   },
