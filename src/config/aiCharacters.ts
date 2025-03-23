@@ -14,7 +14,7 @@ export const modelConfigs = [
     model: "hunyuan-turbos-latest",
     apiKey: "HUNYUAN_API_KEY1",
     baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
-  }
+  },
   {
     model: "glm-4-plus",
     apiKey: "GLM_API_KEY",
