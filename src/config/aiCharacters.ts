@@ -3,12 +3,12 @@ export const modelConfigs = [
   {
     model: "deepseek-chat",
     apiKey: "DEEPSEEK_API_KEY",
-    baseURL: " https://api.deepseek.com/v1"
+    baseURL: "https://api.deepseek.com"
   },
   {
     model: "deepseek-reasoner",
     apiKey: "DEEPSEEK_API_KEY",
-    baseURL: " https://api.deepseek.com/v1"
+    baseURL: "https://api.deepseek.com"
   },
   {
     model: "hunyuan-turbos-latest",
