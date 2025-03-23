@@ -12,7 +12,7 @@ export const modelConfigs = [
   },
   {
     model: "hunyuan-turbos-latest",
-    apiKey: "HUNYUAN_API_KEY1",
+    apiKey: "HUNYUAN_API_KEY",
     baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
   },
   {
