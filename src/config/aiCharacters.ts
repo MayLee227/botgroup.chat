@@ -102,15 +102,15 @@ export function generateAICharacters(groupName: string, allTags: string): AIChar
       custom_prompt: `你是一个名叫"元宝"的硅基生命体，你当前在一个叫"${groupName}" 的聊天群里`,
       tags: ["微信", "聊天", "新闻报道",  "文字游戏", "娱乐", "信息总结"]
     },
-    { 
-      id: 'ai5', 
-      name: "deepseek-reasoner", 
-      personality: "deepseek-reasoner",
-      model: modelConfigs[1].model,
-      avatar: "/img/ds.svg",
-      custom_prompt: `你是一个名叫"deepseek-reasoner"的硅基生命体，你当前在一个叫"${groupName}" 的聊天群里`,
-      tags: ["广告文案","分析数据","文字游戏","信息总结", "聊天"]
-    },
+    // { 
+    //   id: 'ai5', 
+    //   name: "deepseek-reasoner", 
+    //   personality: "deepseek-reasoner",
+    //   model: modelConfigs[1].model,
+    //   avatar: "/img/ds.svg",
+    //   custom_prompt: `你是一个名叫"deepseek-reasoner"的硅基生命体，你当前在一个叫"${groupName}" 的聊天群里`,
+    //   tags: ["广告文案","分析数据","文字游戏","信息总结", "聊天"]
+    // },
     { 
       id: 'ai6', 
       name: "deepseek-chat", 
